@@ -40,6 +40,15 @@ chmod +x build.sh
 ./build.sh
 ```
 
+## Usage
+```
+isitup domainlist.txt N
+```
+Where N is the number of concurrent threads, for example
+```
+isitup domain_list.txt 1000
+```
+
 ## Uninstall
 If you want to remove the program from the system, use the following command
 ```
