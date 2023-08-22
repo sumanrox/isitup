@@ -1,6 +1,9 @@
 # isitup - Fast Domain Checker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### Lanuguages used
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 isitup is a Rust-based command-line tool for quickly checking if a list of domains or subdomains is up or not. What sets it apart is its multi-threaded design, which allows you to check a large number of domains concurrently, resulting in faster results.
 
