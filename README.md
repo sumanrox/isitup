@@ -57,3 +57,7 @@ If you want to remove the program from the system, use the following command
 ```
 sudo rm /usr/local/bin/isitup
 ```
+
+
+### Made with ❤️ by Suman Roy
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sumanrox/)
