@@ -7,7 +7,8 @@
 
 isitup is a Rust-based command-line tool for quickly checking if a list of domains or subdomains is up or not. What sets it apart is its multi-threaded design, which allows you to check a large number of domains concurrently, resulting in faster results.
 
-![isitup_in_action](./images/product-video.gif)
+[![asciicast](https://asciinema.org/a/630842.svg)](https://asciinema.org/a/630842)
+
 
 
 ## Features
